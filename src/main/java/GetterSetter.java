@@ -19,9 +19,9 @@ public class GetterSetter {
 
 
     static class Student {
-        String name;
-        int age;
-        String course;
+        private String name;
+        private int age;
+        private String course;
 
 
         public String getName(){
